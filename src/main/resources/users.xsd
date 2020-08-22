@@ -1,6 +1,6 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns:tns="http://techprimers.com/spring-boot-soap-example"
-           targetNamespace="http://techprimers.com/spring-boot-soap-example"
+           xmlns:tns="https://github.com/isaccanedo/spring-boot-soap-example"
+           targetNamespace="https://github.com/isaccanedo/spring-boot-soap-example"
            elementFormDefault="qualified">
 
     <xs:element name="getUserRequest">
